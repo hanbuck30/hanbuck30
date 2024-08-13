@@ -2,57 +2,51 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanbuck30&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a passionate **Full-Stack Developer** with a focus on building scalable web applications and efficient software solutions. With a strong foundation in both frontend and backend technologies, I strive to create clean, maintainable, and user-friendly products.
+I'm a passionate **Bio-Plausible Neural Network Researcher** and **BCI (Brain-Computer Interface) Enthusiast** with a strong focus on financial applications. Currently, I'm pursuing my Master's degree at **Pukyong National University** as a part of the **BXAI Lab**. My research primarily revolves around nonlinear time series data and its applications in various domains.
 
 ## 🚀 Technical Skills
 
-- **Frontend:** React, Angular, HTML5, CSS3, SASS, TailwindCSS
-- **Backend:** Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins, CI/CD, AWS, Azure
-- **Version Control:** Git, GitHub, GitLab
-- **Other Tools:** Webpack, Babel, ESLint, Prettier
+- **Programming Languages:** Python, Java, C
+- **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Financial Data Analysis, Nonlinear Time Series Analysis
+- **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-learn, MATLAB, NumPy, Pandas
+- **DevOps:** Docker, Git, CI/CD Pipelines
+- **Databases:** MySQL, PostgreSQL
 
-## 💼 Professional Experience
+## 💼 Research Experience
 
-- **[Company Name](https://www.companywebsite.com)** - *Full-Stack Developer*
-  - Developed and maintained web applications using React and Node.js.
-  - Implemented RESTful APIs and integrated third-party services.
-  - Collaborated with cross-functional teams to deliver high-quality products.
-
-- **[Previous Company Name](https://www.previouscompanywebsite.com)** - *Software Engineer*
-  - Worked on the design and development of microservices using Spring Boot and Docker.
-  - Optimized database queries and improved the performance of existing applications.
-  - Participated in code reviews and mentored junior developers.
+- **BXAI Lab, Pukyong National University** - *Graduate Researcher*
+  - Developing bio-plausible neural network models for brain-computer interface applications.
+  - Conducting advanced research in nonlinear time series analysis, with a focus on financial data.
+  - Collaborating with interdisciplinary teams to explore innovative applications of neural networks in finance and neuroscience.
 
 ## 🔧 Notable Projects
 
-### [Project Name 1](https://github.com/hanbuck30/project-name-1)
-A brief description of the project goes here. Explain the problem it solves, the technologies used, and any key features.
+### [Bio-Plausible Neural Network for BCI](https://github.com/hanbuck30/bio-plausible-bci)
+This project explores the development of bio-plausible neural networks tailored for brain-computer interface (BCI) applications. The focus is on creating models that can efficiently process and interpret neural signals.
 
-- **Tech Stack:** React, Node.js, MongoDB, Docker
+- **Tech Stack:** Python, TensorFlow, NumPy, MATLAB
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Bio-inspired neural network architectures
+  - Real-time neural signal processing
+  - Performance optimization for BCI tasks
 
-### [Project Name 2](https://github.com/hanbuck30/project-name-2)
-A brief description of the project goes here. Highlight the key functionalities, the challenges faced, and how they were overcome.
+### [Nonlinear Time Series Analysis in Financial Data](https://github.com/hanbuck30/financial-time-series)
+A research project that investigates the application of nonlinear time series analysis techniques to model and predict financial data. The project aims to enhance the accuracy of financial forecasting models.
 
-- **Tech Stack:** Angular, Django, PostgreSQL, Kubernetes
+- **Tech Stack:** Python, Scikit-learn, Pandas, MATLAB
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Nonlinear model implementation
+  - Financial data preprocessing and analysis
+  - Predictive model evaluation and validation
 
-### [Project Name 3](https://github.com/hanbuck30/project-name-3)
-Describe the purpose of the project, its impact, and the technologies that made it possible.
+### [BCI Signal Classification Using Deep Learning](https://github.com/hanbuck30/bci-signal-classification)
+This project involves the classification of brain signals using deep learning techniques. The goal is to improve the accuracy and speed of BCI systems through the use of cutting-edge neural networks.
 
-- **Tech Stack:** Vue.js, Spring Boot, MySQL, AWS
+- **Tech Stack:** Python, PyTorch, Scikit-learn, NumPy
 - **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Deep learning models for signal classification
+  - Data augmentation for BCI datasets
+  - Integration with real-time BCI systems
 
 ## 📈 GitHub Stats
 
@@ -60,21 +54,21 @@ Describe the purpose of the project, its impact, and the technologies that made 
 
 ## 🌱 What I'm currently learning
 
-- Advanced TypeScript Techniques
-- Machine Learning Fundamentals
-- Kubernetes Best Practices
+- Advanced Nonlinear Dynamics and Chaos Theory
+- Reinforcement Learning for BCI Applications
+- High-Performance Computing in Financial Modeling
 
 ## 📫 How to reach me
 
 - **Email:** hanbuck30@example.com
 - **LinkedIn:** [linkedin.com/in/hanbuck30](https://www.linkedin.com/in/hanbuck30)
 
-Feel free to reach out if you want to collaborate on any project or just want to chat about technology!
+Feel free to reach out if you want to collaborate on research projects or discuss innovations in neural networks, BCI, or financial data analysis!
 
 ## 🌟 Fun Fact
 
-I'm a big fan of open-source projects and enjoy contributing to the developer community. When I'm not coding, you can find me exploring new technologies, hiking, or playing chess.
+In addition to my research, I enjoy exploring the intersection of neuroscience and finance, always on the lookout for novel ways to apply neural networks to solve real-world problems.
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+*"Research is formalized curiosity. It is poking and prying with a purpose."* – Zora Neale Hurston
