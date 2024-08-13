@@ -1,4 +1,4 @@
-# Hi there, I'm Hanbeot 👋
+# Hi there, I'm Hanbeot Park👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanbuck30&label=Profile%20views&color=0e75b6&style=flat)
 
