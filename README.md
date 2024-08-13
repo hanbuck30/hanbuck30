@@ -31,7 +31,7 @@ Research project focused on enhancing the efficiency and performance of neural n
   - Integration with existing neural network architectures
   - Performance analysis and optimization
 
-### [Nonlinear Time Series Prediction for BCI and Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)
+### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)
 This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
 
 - **Tech Stack:** Python, Scikit-learn, Pandas, TensorFlow
@@ -41,13 +41,13 @@ This project investigates the use of advanced neural network models for predicti
   - Model evaluation and validation
 
 ### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)
-A study on improving EEG signal processing by developing methods for interpolating low-channel to high-channel data and enhancing decoding accuracy.
+Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and Gradient Descent. Unlike traditional ESNs, large storage nodes can be used using memory much more efficiently.
 
-- **Tech Stack:** Python, MATLAB, NumPy, Pytorch
+- **Tech Stack:** Python, NumPy, Pytorch
 - **Features:**
-  - Low-to-high channel interpolation techniques
-  - Advanced EEG signal decoding models
-  - Real-time signal processing optimization
+  - When using many nodes, you can effectively manage and utilize memory
+  - By using batch processing, tasks can be performed at high speed through parallelization
+  - It can be utilized as needed through various learning algorithms
 
 ## 📈 GitHub Stats
 
