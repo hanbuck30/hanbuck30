@@ -35,16 +35,13 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat)
 
 ## 💼 Research Experience
-### Ongoing Research
+### 🔬 Ongoing Research
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
   - Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
-    
   - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
-    
   - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
 
-
-### Past Research & Studies
+### 🧠 Past Research & Studies
 - **Multi-modal Learning (CV, NLP)** - *Dacon Project*
   - Conducted research on improving image classification by analyzing and enhancing how text within images can be better utilized for classification purposes. This involved developing techniques to effectively integrate the visual and textual components of images to improve overall model performance.
  
@@ -55,19 +52,16 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
   - Conducted research on ICT technology that detects umbrellas using computer vision, enabling automatic door closure during rainy weather. This project aimed to integrate real-time weather responses into smart home systems, enhancing convenience and safety.
 
 - **Stress Prediction** - *Previous Study*
-
 - **Neuromorphic Computing Research** - *Previous Study*
-  
 - **Inner Speech Decoding** - *Previous Study*
-
 - **ESN Research** - *Previous Study*
-  
-- -**Stock Prediction** - *Previous Study*
+- **Stock Prediction** - *Previous Study*
+
 
 ## 🔧 Notable Projects
 
-### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk-Decoding)[Private now]
-Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance
+### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk-Decoding) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance.
 
 - **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
 - **Features:**
@@ -75,7 +69,7 @@ Traditional invasive methods have often achieved high performance in decoding. H
   - Plan to further develop this method not only for decoding but also for language processing
   - It takes about 7 Hours for training.
 
-### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/financial-data-predict)[Public]
+### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/financial-data-predict) ![Public](https://img.shields.io/badge/-Public-green) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
 
 - **Tech Stack:** Python, Scikit-learn, Pandas, Pytorch
@@ -84,7 +78,7 @@ This project investigates the use of advanced neural network models for predicti
   - Aimed for higher profits by utilizing optimized algorithms and TA tailored to each stock
   - Achieved stable and high returns by considering not only the profitability but also the Maximum Drawdown (MDD)
 
-### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)[Public]
+### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN) ![Public](https://img.shields.io/badge/-Public-green) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and Gradient Descent. Unlike traditional ESNs, large storage nodes can be used using memory much more efficiently.
 
 - **Tech Stack:** Python, NumPy, Pytorch
@@ -93,9 +87,14 @@ Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and G
   - By using batch processing, tasks can be performed at high speed through parallelization
   - It can be utilized as needed through various learning algorithms
 
+
 ## 📈 GitHub Stats
 
 ![Hanbuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbuck30&show_icons=true&theme=default)
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbuck30&layout=compact&theme=default)
+
 
 ## 🌱 What I'm currently learning
 
