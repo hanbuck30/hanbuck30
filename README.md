@@ -22,10 +22,10 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 ## 🔧 Notable Projects
 
-### [SNN Encoding for Bio-Plausible Neural Networks](https://github.com/hanbuck30/snn-encoding)[Private now]
+### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk-Decoding)[Private now]
 Research project focused on enhancing the efficiency and performance of neural networks by incorporating spiking neural network (SNN) encoding techniques. This project aims to create more biologically plausible models that can be applied to advanced AI systems.
 
-- **Tech Stack:** Python, PyTorch, TensorFlow, NumPy, MATLAB
+- **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
 - **Features:**
   - Development of SNN-based encoding methods
   - Integration with existing neural network architectures
@@ -40,7 +40,7 @@ This project investigates the use of advanced neural network models for predicti
   - Application to BCI signal processing and financial forecasting
   - Model evaluation and validation
 
-### [EEG Signal Interpolation and Decoding](https://github.com/hanbuck30/eeg-signal-interpolation)
+### [ESN-Pytorch](https://github.com/hanbuck30/ESN-Pytorch)
 A study on improving EEG signal processing by developing methods for interpolating low-channel to high-channel data and enhancing decoding accuracy.
 
 - **Tech Stack:** Python, MATLAB, NumPy, Pytorch
