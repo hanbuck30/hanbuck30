@@ -43,14 +43,14 @@ Traditional invasive methods have often achieved high performance in decoding. H
   - Plan to further develop this method not only for decoding but also for language processing
   - It takes about 7 Hours for training.
 
-### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)[Public]
+### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/financial-data-predict)[Public]
 This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
 
 - **Tech Stack:** Python, Scikit-learn, Pandas, Pytorch
 - **Features:**
-  - Implementation of neural network models optimized for time series prediction
-  - Application to BCI signal processing and financial forecasting
-  - Model evaluation and validation
+  - Optimized the hyperparameters of the ESN and the TA using a heuristic optimization technique, GA (Genetic Algorithm)
+  - Aimed for higher profits by utilizing optimized algorithms and TA tailored to each stock
+  - Achieved stable and high returns by considering not only the profitability but also the Maximum Drawdown (MDD)
 
 ### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)[Public]
 Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and Gradient Descent. Unlike traditional ESNs, large storage nodes can be used using memory much more efficiently.
