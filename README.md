@@ -8,8 +8,8 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 - **Programming Languages:** Python (primary), Java, C, MATLAB
 - **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Nonlinear Time Series Prediction, Financial Data Analysis
-- **Research Areas:** Multi-modal Learning (CV, NLP), Deep Reinforcement Learning (DeepRL), Core AI (Bio-Plausible NN, Recent NN), EEG Encoding/Decoding
-- **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, MATLAB
+- **Research Areas:** Multi-modal Learning (CV, NLP)[Dacon Project], Deep Reinforcement Learning (DeepRL)[NeuroMatch Project], Core AI (Bio-Plausible NN, Recent NN), EEG Encoding/Decoding
+- **Tools & Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, MATLAB
 - **Databases:** Oracle DB
 - **DevOps:** Docker, Git, GitHub
 
@@ -23,24 +23,24 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ## 🔧 Notable Projects
 
 ### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk-Decoding)[Private now]
-Research project focused on enhancing the efficiency and performance of neural networks by incorporating spiking neural network (SNN) encoding techniques. This project aims to create more biologically plausible models that can be applied to advanced AI systems.
+Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance
 
 - **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
 - **Features:**
-  - Development of SNN-based encoding methods
-  - Integration with existing neural network architectures
-  - Performance analysis and optimization
+  - Achieved a high F1 score
+  - Plan to further develop this method not only for decoding but also for language processing
+  - It takes about 7 Hours for training.
 
-### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)
+### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)[Public]
 This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
 
-- **Tech Stack:** Python, Scikit-learn, Pandas, TensorFlow
+- **Tech Stack:** Python, Scikit-learn, Pandas, Pytorch
 - **Features:**
   - Implementation of neural network models optimized for time series prediction
   - Application to BCI signal processing and financial forecasting
   - Model evaluation and validation
 
-### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)
+### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)[Public]
 Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and Gradient Descent. Unlike traditional ESNs, large storage nodes can be used using memory much more efficiently.
 
 - **Tech Stack:** Python, NumPy, Pytorch
@@ -63,7 +63,7 @@ Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and G
 ## 📫 How to reach me
 
 - **Email:** phanbut30@gmail.com
-- **LinkedIn:** [linkedin.com/in/hanbuck30](https://www.linkedin.com/in/hanbuck30)
+- **LinkedIn:** [linkedin.com/in/hanbuck30](https://www.linkedin.com/in/hanbeot park)
 
 Feel free to reach out if you want to collaborate on research projects, discuss neural networks and their applications, or explore the exciting fields of BCI and financial data analysis!
 
