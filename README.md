@@ -60,7 +60,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 ## 🔧 Notable Projects
 
-### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk-Decoding) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk_Decoder) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance.
 
 - **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
