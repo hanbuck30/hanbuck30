@@ -8,17 +8,29 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 - **Programming Languages:** Python (primary), Java, C, MATLAB
 - **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Nonlinear Time Series Prediction, Financial Data Analysis
-- **Research Areas:** Multi-modal Learning (CV, NLP)[Dacon Project], Deep Reinforcement Learning (DeepRL)[NeuroMatch Project], Core AI (Bio-Plausible NN, Recent NN), EEG Encoding/Decoding
 - **Tools & Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, MATLAB
 - **Databases:** Oracle DB
 - **DevOps:** Docker, Git, GitHub
 
 ## 💼 Research Experience
-
+### Ongoing Research
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
   - Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
+    
   - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
+    
   - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
+
+
+### Past Research & Studies
+- **Multi-modal Learning (CV, NLP)** - *Dacon Project*
+  - Conducted research on improving image classification by analyzing and enhancing how text within images can be better utilized for classification purposes. This involved developing techniques to effectively integrate the visual and textual components of images to improve overall model performance.
+  - 
+- **Deep Reinforcement Learning (DeepRL)** - *NeuroMatch Project*
+  - Conducted research aimed at advancing bio-plausible neural networks by applying deep reinforcement learning techniques. The project involved training an Ant agent within the OpenAI Gym environment to perform desired actions using bio-plausible learning rules. The goal was to enhance the performance of bio-plausible neural networks by incorporating biologically inspired learning mechanisms.
+
+- **Computer Vision (CV) Applications** - *Capstone Project*
+  - Conducted research on ICT technology that detects umbrellas using computer vision, enabling automatic door closure during rainy weather. This project aimed to integrate real-time weather responses into smart home systems, enhancing convenience and safety.
 
 ## 🔧 Notable Projects
 
@@ -63,7 +75,7 @@ Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and G
 ## 📫 How to reach me
 
 - **Email:** phanbut30@gmail.com
-- **LinkedIn:** [linkedin.com/in/hanbuck30](https://www.linkedin.com/in/hanbeot park)
+- **LinkedIn:** [linkedin.com/in/hanbuck30](www.linkedin.com/in/hanbeot-park-297233297)
 
 Feel free to reach out if you want to collaborate on research projects, discuss neural networks and their applications, or explore the exciting fields of BCI and financial data analysis!
 
