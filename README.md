@@ -40,7 +40,7 @@ This project investigates the use of advanced neural network models for predicti
   - Application to BCI signal processing and financial forecasting
   - Model evaluation and validation
 
-### [ESN-Pytorch](https://github.com/hanbuck30/ESN-Pytorch)
+### [ESN-Pytorch](https://github.com/hanbuck30/Pytorch_ESN)
 A study on improving EEG signal processing by developing methods for interpolating low-channel to high-channel data and enhancing decoding accuracy.
 
 - **Tech Stack:** Python, MATLAB, NumPy, Pytorch
