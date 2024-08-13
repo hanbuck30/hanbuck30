@@ -1,52 +1,53 @@
-# Hi there, I'm Hanbuck 👋
+# Hi there, I'm Hanbeot 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanbuck30&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a passionate **Bio-Plausible Neural Network Researcher** and **BCI (Brain-Computer Interface) Enthusiast** with a strong focus on financial applications. Currently, I'm pursuing my Master's degree at **Pukyong National University** as a part of the **BXAI Lab**. My research primarily revolves around nonlinear time series data and its applications in various domains.
+I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks**, **Brain-Computer Interfaces (BCI)**, and **Financial Data Analysis**. Currently pursuing my Master's degree in **Data Engineering** at **Pukyong National University**, my research focuses on the prediction of nonlinear time series data in BCI and financial applications. I’m also deeply engaged in developing next-generation neural networks to enhance the efficiency and performance of existing models.
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** Python, Java, C
-- **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Financial Data Analysis, Nonlinear Time Series Analysis
-- **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-learn, MATLAB, NumPy, Pandas
-- **DevOps:** Docker, Git, CI/CD Pipelines
-- **Databases:** MySQL, PostgreSQL
+- **Programming Languages:** Python (primary), Java, C, MATLAB
+- **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Nonlinear Time Series Prediction, Financial Data Analysis
+- **Research Areas:** Multi-modal Learning (CV, NLP), Deep Reinforcement Learning (DeepRL), Core AI (Bio-Plausible NN, Recent NN), EEG Encoding/Decoding
+- **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, MATLAB
+- **Databases:** Oracle DB
+- **DevOps:** Docker, Git, GitHub
 
 ## 💼 Research Experience
 
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
-  - Developing bio-plausible neural network models for brain-computer interface applications.
-  - Conducting advanced research in nonlinear time series analysis, with a focus on financial data.
-  - Collaborating with interdisciplinary teams to explore innovative applications of neural networks in finance and neuroscience.
+  - Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
+  - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
+  - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
 
 ## 🔧 Notable Projects
 
-### [Bio-Plausible Neural Network for BCI](https://github.com/hanbuck30/bio-plausible-bci)
-This project explores the development of bio-plausible neural networks tailored for brain-computer interface (BCI) applications. The focus is on creating models that can efficiently process and interpret neural signals.
+### [SNN Encoding for Bio-Plausible Neural Networks](https://github.com/hanbuck30/snn-encoding)
+Research project focused on enhancing the efficiency and performance of neural networks by incorporating spiking neural network (SNN) encoding techniques. This project aims to create more biologically plausible models that can be applied to advanced AI systems.
 
-- **Tech Stack:** Python, TensorFlow, NumPy, MATLAB
+- **Tech Stack:** Python, PyTorch, TensorFlow, NumPy, MATLAB
 - **Features:**
-  - Bio-inspired neural network architectures
-  - Real-time neural signal processing
-  - Performance optimization for BCI tasks
+  - Development of SNN-based encoding methods
+  - Integration with existing neural network architectures
+  - Performance analysis and optimization
 
-### [Nonlinear Time Series Analysis in Financial Data](https://github.com/hanbuck30/financial-time-series)
-A research project that investigates the application of nonlinear time series analysis techniques to model and predict financial data. The project aims to enhance the accuracy of financial forecasting models.
+### [Nonlinear Time Series Prediction for BCI and Financial Data](https://github.com/hanbuck30/nonlinear-timeseries-prediction)
+This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
 
-- **Tech Stack:** Python, Scikit-learn, Pandas, MATLAB
+- **Tech Stack:** Python, Scikit-learn, Pandas, TensorFlow
 - **Features:**
-  - Nonlinear model implementation
-  - Financial data preprocessing and analysis
-  - Predictive model evaluation and validation
+  - Implementation of neural network models optimized for time series prediction
+  - Application to BCI signal processing and financial forecasting
+  - Model evaluation and validation
 
-### [BCI Signal Classification Using Deep Learning](https://github.com/hanbuck30/bci-signal-classification)
-This project involves the classification of brain signals using deep learning techniques. The goal is to improve the accuracy and speed of BCI systems through the use of cutting-edge neural networks.
+### [EEG Signal Interpolation and Decoding](https://github.com/hanbuck30/eeg-signal-interpolation)
+A study on improving EEG signal processing by developing methods for interpolating low-channel to high-channel data and enhancing decoding accuracy.
 
-- **Tech Stack:** Python, PyTorch, Scikit-learn, NumPy
+- **Tech Stack:** Python, MATLAB, NumPy, TensorFlow
 - **Features:**
-  - Deep learning models for signal classification
-  - Data augmentation for BCI datasets
-  - Integration with real-time BCI systems
+  - Low-to-high channel interpolation techniques
+  - Advanced EEG signal decoding models
+  - Real-time signal processing optimization
 
 ## 📈 GitHub Stats
 
@@ -54,20 +55,21 @@ This project involves the classification of brain signals using deep learning te
 
 ## 🌱 What I'm currently learning
 
-- Advanced Nonlinear Dynamics and Chaos Theory
-- Reinforcement Learning for BCI Applications
-- High-Performance Computing in Financial Modeling
+- Meta-Reinforcement Learning (Meta-RL)
+- Latest state-of-the-art neural networks architectures for time series data
+- Neuroscience and its intersection with AI
+- Quantum Computing (Future Interest)
 
 ## 📫 How to reach me
 
 - **Email:** hanbuck30@example.com
 - **LinkedIn:** [linkedin.com/in/hanbuck30](https://www.linkedin.com/in/hanbuck30)
 
-Feel free to reach out if you want to collaborate on research projects or discuss innovations in neural networks, BCI, or financial data analysis!
+Feel free to reach out if you want to collaborate on research projects, discuss neural networks and their applications, or explore the exciting fields of BCI and financial data analysis!
 
 ## 🌟 Fun Fact
 
-In addition to my research, I enjoy exploring the intersection of neuroscience and finance, always on the lookout for novel ways to apply neural networks to solve real-world problems.
+I'm fascinated by the idea of replicating the human brain within a computer, and I'm closely following the developments in Spiking Neural Networks (SNNs) to make this a reality. I'm also deeply interested in EEG encoding and decoding, and how these can be applied to cutting-edge AI systems.
 
 ---
 
