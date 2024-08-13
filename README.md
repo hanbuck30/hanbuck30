@@ -6,11 +6,33 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 ## 🚀 Technical Skills
 
-- **Programming Languages:** Python (primary), Java, C, MATLAB
-- **Specializations:** Bio-Plausible Neural Networks, Brain-Computer Interfaces (BCI), Nonlinear Time Series Prediction, Financial Data Analysis
-- **Tools & Frameworks:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, MATLAB
-- **Databases:** Oracle DB
-- **DevOps:** Docker, Git, GitHub
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white&style=flat)
+
+### Specializations
+![Bio-Plausible Neural Networks](https://img.shields.io/badge/-Bio--Plausible%20Neural%20Networks-007396?logo=Neuron&logoColor=white&style=flat)
+![BCI](https://img.shields.io/badge/-Brain--Computer%20Interfaces-2E86C1?logo=Brainly&logoColor=white&style=flat)
+![Nonlinear Time Series Prediction](https://img.shields.io/badge/-Nonlinear%20Time%20Series%20Prediction-7D3C98?logo=Time&logoColor=white&style=flat)
+![Financial Data Analysis](https://img.shields.io/badge/-Financial%20Data%20Analysis-E74C3C?logo=Analysis&logoColor=white&style=flat)
+
+### Tools & Frameworks
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white&style=flat)
+
+### Databases
+![Oracle](https://img.shields.io/badge/-Oracle%20DB-F80000?logo=Oracle&logoColor=white&style=flat)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat)
 
 ## 💼 Research Experience
 ### Ongoing Research
@@ -25,12 +47,22 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ### Past Research & Studies
 - **Multi-modal Learning (CV, NLP)** - *Dacon Project*
   - Conducted research on improving image classification by analyzing and enhancing how text within images can be better utilized for classification purposes. This involved developing techniques to effectively integrate the visual and textual components of images to improve overall model performance.
-  - 
+ 
 - **Deep Reinforcement Learning (DeepRL)** - *NeuroMatch Project*
   - Conducted research aimed at advancing bio-plausible neural networks by applying deep reinforcement learning techniques. The project involved training an Ant agent within the OpenAI Gym environment to perform desired actions using bio-plausible learning rules. The goal was to enhance the performance of bio-plausible neural networks by incorporating biologically inspired learning mechanisms.
 
 - **Computer Vision (CV) Applications** - *Capstone Project*
   - Conducted research on ICT technology that detects umbrellas using computer vision, enabling automatic door closure during rainy weather. This project aimed to integrate real-time weather responses into smart home systems, enhancing convenience and safety.
+
+- **Stress Prediction** - *Previous Study*
+
+- **Neuromorphic Computing Research** - *Previous Study*
+  
+- **Inner Speech Decoding** - *Previous Study*
+
+- **ESN Research** - *Previous Study*
+  
+- -**Stock Prediction** - *Previous Study*
 
 ## 🔧 Notable Projects
 
