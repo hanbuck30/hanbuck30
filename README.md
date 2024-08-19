@@ -39,6 +39,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
   - Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
   - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
+  - Enhancing Word Recognition in Imagined Speech Using Non-Invasive EEG for Improved BCI Applications
   - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
 
 ### 🧠 Past Research & Studies
