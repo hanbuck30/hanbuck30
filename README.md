@@ -57,7 +57,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 - **Inner Speech Decoding** - *Previous Study*
 - **ESN Research** - *Previous Study*
 - **Stock Prediction** - *Previous Study*
-- **Assistance in the diagnosis of depression through EEG**
+- **Assistance in the diagnosis of depression through EEG** -*Previous Study*
 
 ## 🔧 Notable Projects
 
