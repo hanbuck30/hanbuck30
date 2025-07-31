@@ -37,9 +37,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ## 💼 Research Experience
 ### 🔬 Ongoing Research
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
-  - Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
-  - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
-  - Enhancing Word Recognition in Imagined Speech Using Non-Invasive EEG for Improved BCI Applications
+  - Voice generation in Imagined Speech Using Non-Invasive EEG for Improved BCI Applications
   - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
 
 ### 🧠 Past Research & Studies
@@ -51,7 +49,13 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 - **Computer Vision (CV) Applications** - *Capstone Project*
   - Conducted research on ICT technology that detects umbrellas using computer vision, enabling automatic door closure during rainy weather. This project aimed to integrate real-time weather responses into smart home systems, enhancing convenience and safety.
+    
+- **EEG low channels to high channels interpolation.**
+  － Conducting research on interpolation methods from low-channel to high-channel EEG data, aiming to enhance the precision of BCI systems.
 
+- **High Performance Artificial Brain Model**    
+  - Developing encoding techniques for Spiking Neural Networks (SNNs) to explore their potential in high-performance computing.
+    
 - **Stress Prediction** - *Previous Study*
 - **Neuromorphic Computing Research** - *Previous Study*
 - **Inner Speech Decoding** - *Previous Study*
@@ -61,7 +65,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 
 ## 🔧 Notable Projects
 
-### [NeuroTalk Decoding](https://github.com/hanbuck30/NeuroTalk_Decoder) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### [BXAITalk](https://github.com/hanbuck30/BXAITalk) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance.
 
 - **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
