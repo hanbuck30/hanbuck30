@@ -38,6 +38,7 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ### 🔬 Ongoing Research
 - **BXAI Lab, Pukyong National University** - *Graduate Researcher*
   - Voice generation in Imagined Speech Using Non-Invasive EEG for Improved BCI Applications
+  - Lie Detection Using Non-Invasive EEG for Decrease crime
   - Engaged in predictive modeling of nonlinear time series data for financial and BCI applications, utilizing state-of-the-art neural networks.
 
 ### 🧠 Past Research & Studies
@@ -68,11 +69,19 @@ I'm a dedicated **Researcher** in the fields of **Bio-Plausible Neural Networks*
 ### [BXAITalk](https://github.com/hanbuck30/BXAITalk) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 Traditional invasive methods have often achieved high performance in decoding. However, decoding using non-invasive methods like EEG is very challenging, especially for imagined speech, where understanding a user's intent through mere thoughts is particularly difficult. To address this, we developed a method that achieved high performance.
 
-- **Tech Stack:** Python, PyTorch, NumPy, MATLAB, Pandas
+- **Tech Stack:** Python, PyTorch, NumPy, Pandas
 - **Features:**
-  - Achieved a high F1 score
-  - Plan to further develop this method not only for decoding but also for language processing
-  - It takes about 7 Hours for training.
+  - Achieved a lowest CER using Non-Invasive EEG
+  - Plan to further develop realtime decoding skills
+  - It takes about 24 Hours for training.
+ 
+### [Lie-Detection](https://github.com/hanbuck30/Lie_Detection) ![Private](https://img.shields.io/badge/-Private-red) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+The police typically rely on a polygraph for lie detection, which delivers about 70 percent accuracy. In contrast, using non-invasive EEG data from trained subjects boosted performance dramatically, achieving an F1 score of 0.99.
+
+- **Tech Stack:** Python, PyTorch, NumPy, Pandas
+- **Features:**
+  - Achieved a high F1 score.
+  - It takes about 1 Hours for training.
 
 ### [Nonlinear Time Series Prediction for Financial Data](https://github.com/hanbuck30/financial-data-predict) ![Public](https://img.shields.io/badge/-Public-green) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 This project investigates the use of advanced neural network models for predicting nonlinear time series data, specifically focusing on applications in BCI and financial markets.
