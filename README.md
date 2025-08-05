@@ -111,8 +111,7 @@ Pytorch version of ESN. Learning algorithms include FORCE, inverse matrix, and G
 
 
 ## 🌱 What I'm currently learning
-
-- Meta-Reinforcement Learning (Meta-RL)
+- MLOPS
 - Latest state-of-the-art neural networks architectures for time series data
 - Neuroscience and its intersection with AI
 - Quantum Computing (Future Interest)
