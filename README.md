@@ -75,7 +75,7 @@ Traditional invasive methods have often achieved high performance in decoding. H
   - Plan to further develop realtime decoding skills
   - It takes about 24 Hours for training.
  
-### [SparseMambaNet](https://github.com/hanbuck30/Lie_Detection)  ![Public](https://img.shields.io/badge/-Public-green) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### [SparseMambaNet](https://github.com/hanbuck30/SparseMambaNet)  ![Public](https://img.shields.io/badge/-Public-green) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 The police typically rely on a polygraph for lie detection, which delivers about 70 percent accuracy. In contrast, using non-invasive EEG data from trained subjects boosted performance dramatically, achieving an F1 score of 0.99.
 
 - **Tech Stack:** Python, PyTorch, NumPy, Pandas
